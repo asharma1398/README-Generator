@@ -8,6 +8,24 @@ function generateMarkdown(data) {
 
   ![GitHub License](https://img.shields.io/badge/license-${printLicense}-blue.svg)
 
+  ## Description 
+
+  ${data.description}
+
+  ## Table of Contents 
+
+  * [Installation](#installation)
+  
+  * [Usage](#usage)
+
+  * [License](#license)
+
+  * [Contributing](#contributing)
+
+  * [Tests](#tests)
+
+  * [Questions](#questions)
+
 `;
 
 }
