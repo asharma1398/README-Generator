@@ -1,14 +1,22 @@
 {
   "name": "static-site",
   "version": "1.0.0",
-  "description": "",
+  "description": "A command-line application that dynamically generates a professional README.md from a user's input",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Aakanksha Sharma",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^6.3.1"
-  }
+    "inquirer": "^6.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asharma1398/README-Generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/asharma1398/README-Generator/issues"
+  },
+  "homepage": "https://github.com/asharma1398/README-Generator#readme"
 }
