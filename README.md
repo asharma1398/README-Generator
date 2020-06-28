@@ -1,1 +1,12 @@
 # README-Generator
+
+[My GitHub](https://github.com/asharma1398)
+
+### Overview 
+***
+
+This is a command-line application that dynamically generates a professional README.md from a user's input
+
+The application will be invoked with the following command:
+
+    node index.js
