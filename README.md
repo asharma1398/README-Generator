@@ -13,3 +13,5 @@ The application will be invoked with the following command:
 
 ### Preview 
 ***
+
+![preview](assets/CLI_preview.gif)
