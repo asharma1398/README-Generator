@@ -3,7 +3,14 @@ function generateMarkdown(data) {
   
   // created compatible license name to later join to badge URL
   var printLicense = data.license.split(" ").join("_")
- 
+
+  // information display change for no license scenario 
+  if (data.license === "NONE") {
+    var licenseSection = "This project does not use a license"
+  } else {
+    var licenseSection = `This project is licensed under the ${data.license} license`
+  }
+
   return `# ${data.title}
 
   ![GitHub License](https://img.shields.io/badge/license-${printLicense}-blue.svg)
@@ -38,7 +45,7 @@ function generateMarkdown(data) {
 
   ## License 
 
-  This project is licensed under the ${data.license} license
+  ${licenseSection}
 
   ## Contributing 
 

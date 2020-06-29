@@ -1,4 +1,4 @@
-# README-Generator
+# README Generator
 
 [My GitHub](https://github.com/asharma1398)
 
@@ -10,3 +10,6 @@ This is a command-line application that dynamically generates a professional REA
 The application will be invoked with the following command:
 
     node index.js
+
+### Preview 
+***
