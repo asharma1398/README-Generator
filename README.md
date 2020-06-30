@@ -21,3 +21,7 @@ Command Line Interface:
 Generated README:
 
 ![README_preview](assets/README_preview.gif)
+
+User email and GitHub Linked in Questions section:
+
+![QUESTION_preview](assets/QUESTION_preview.gif)
