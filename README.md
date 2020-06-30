@@ -14,4 +14,10 @@ The application will be invoked with the following command:
 ### Preview 
 ***
 
-![preview](assets/CLI_preview.gif)
+Command Line Interface:
+
+![CLI_preview](assets/CLI_preview.gif)
+
+Generated README:
+
+![README_preview](assets/README_preview.gif)
